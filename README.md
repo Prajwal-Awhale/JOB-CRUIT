@@ -1,12 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+JobCruit is a full-stack MERN job portal where users can apply for jobs, recruiters can post job listings, and professionals can showcase their work. The platform also includes a course marketplace with payment integration, making it a one-stop solution for job seekers, employers, and learners. With features like authentication, job applications, hiring management, and an admin panel for moderation, JobCruit aims to simplify recruitment and career growth in a seamless digital experience. 🚀
